@@ -2,7 +2,7 @@
 
 .obj Mesh Importer for OpenGL 2.0+
 
-The .obj mesh importer is situated in MeshLoader.cpp/MeshLoader.h 
+The .obj mesh importer is located in MeshLoader.cpp/MeshLoader.h 
 
 In this configuration MeshOperator is instanciated once:
 

@@ -4,6 +4,8 @@
 
 The .obj mesh importer is located in MeshLoader.cpp/MeshLoader.h 
 
+The other files are added really for insight purposes.
+
 In this configuration MeshOperator is instanciated once:
 
 ```C++

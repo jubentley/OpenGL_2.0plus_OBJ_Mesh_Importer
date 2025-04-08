@@ -4,7 +4,7 @@
 
 The .obj mesh importer is located in MeshLoader.cpp/MeshLoader.h 
 
-The other files are added really as a guide.
+The other files are added really as a guide as their directly linked to MeshLoader and come from the final version of a Tai Chi Simulator in VR I made as a custom final project at uni [justinbentley.dev#VRTaiChi](https://justinbentley.dev/#VRTaiChi).
 
 In this configuration MeshOperator is instanciated once:
 
